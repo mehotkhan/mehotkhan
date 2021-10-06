@@ -30,5 +30,5 @@ CMS Technologies: Drupal theme and plugins (v7),wordpress theme and plugins
 **Social Data Analysis**: Experience working in Twiter Api , Telegram APi , Insta-
 gram Api
 
-# My Tax ID 
+# My Tox ID 
 `A9AA3939EA338DE9A135409D027C0689ADD9F9F09196E632A8699542616C1770E765E36F7EA4`

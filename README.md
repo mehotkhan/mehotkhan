@@ -1,32 +1,106 @@
-# OBJECTIVE
+## About
 
-Ali is an accomplished individual with a strong back-ground in software systems, software management, professional programming and software developing. 
+Ali is an accomplished individual with a strong back-ground in software systems, software management, professional programming and software developing.
+Ali has contributed in about 100 software projects during the last 10 years and he is continually evaluating and upgrading his skills so that he stays at the cutting edge of web development. Ali is a quick learner who can generate new ideas and can communicate clearly and effectively. He has a great interest in open source technologies and dedicates his leisure time to study and research in this field.Currently looking for an opportunity to join a dynamic and ambitious company that offers a unique work environment within which its staff can thrive and grow.
+ 
 
-Ali has contributed in about 100 software projects during thelast 10 years and he is continually evaluating and upgrading his skills so that he stays at the cutting edge of web development. Ali is a quick learner who can generate new ideas and can communicate clearly and effectively. He has a great interest in open source technologies and dedicates his leisure time to study and research in this field.Currently looking for an opportunity to join a dynamic and ambitious company that offers a unique work environment within which its staff can thrive and grow.
+## Programming Languages
 
-# TECHNOLOGY SKILLS
+- JavaScript
+- TypeScript
+- Python
+- C/C++ (Arduino ENV)
+- Golang
+- PHP
 
- **Programming Languages**: Python, JavaScript, Golang, PHP
+## Operations Systems
 
-**Operations Systems**: Experience working in Unix/Linux server managment ,De-
-bian ,Centos ,Arch ,Ubuntu
+Experience working in Unix/Linux server managment ,
 
-**Back-end Technologies**: Django (v1.11,v2) , DRF (django rest fremwork) ,Django
-Channel ,Flask microframwork ,Celery, ,express.js ,loopback(v3) ,GraphQL
+- Debian
+- FreeBSd
+- Centos
+- Arch
+- Ubuntu
 
-**Front-End Technologies**: React , vue.js ,hexo.js ,Bootstrap (v3,v4) , Material UI
-, redux enverioment , webpack ,SASS, SUSY, Jinja Template Engine.
+## Back-end Technologies
 
-**Mobile App Technologies**: react-native (android only) , PWA Architecture
+- Django
+- Django DRF (django rest fremwork)
+- Django Channel
+- Flask microframwork
+- Celery,
+- express.js
+- loopback(v3)
+- GraphQL
 
-**Dev-ops Technologies**: microservise architecture ,messaging platform , cluster
-managment platform , docker , k8s ,Nginx ,kafka ,EMQ (Mqtt broker) ,RabbitMQ
+## Front-End Technologies
 
-**Team Managements Technologies**: Jira Platform , Git , Trello , Postman
-CMS Technologies: Drupal theme and plugins (v7),wordpress theme and plugins
+- Vue3
+- Tailwind CSS
+- Nuxt3
+- Wasm Technology
+- React
+- Hexo.js
+- Bootstrap (v3,v4) ,
+- AndD
+- Material UI
+- Redux enverioment
 
-**Database Technologies**: Mongodb , Postgresql ,Key-Value (redis), Neo4j
+## Mobile App Technologies
 
-**Social Data Analysis**: Experience working in Twiter Api , Telegram APi , Insta-
-gram Api
+- React-native
+- PWA Architecture
+
+## Dev-ops Technologies
+
+- Microservise Architecture
+- Messaging platform
+- Clustermanagment platform (k8s )
+- docker
+- Nginx
+- Kafka
+- EMQ (Mqtt broker)
+- RabbitMQ
+
+## Iot
+
+- Arduino
+- PlatformIO
+- RaspheryPi
+
+## Team-Managements Technologies
+
+- Jira Platform ,
+- Git
+- Trello
+- Postman
+
+## CMS Technologies
+
+- Headless CMS (Netlify)
+- Drupal theme and plugins
+- Wordpress theme and plugins
+
+## Database Technologies
+
+- Dexie.js(IndexedDB Wrapper)
+- Mongodb
+- Postgresql
+- Key-Value (redis)
+- Neo4j
+
+## Social Data Analysis
+
+- Experience working in Twiter Api
+- Telegram APi
+- Instagram Api
+- LinkedIn API
+
+## Web3 Technologies
+
+- Ethereum smart contract
+- IPFS Data Storage
+
+
 

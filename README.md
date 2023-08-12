@@ -1,7 +1,7 @@
 ## About
 
 Ali is an accomplished individual with a strong back-ground in software systems, software management, professional programming and software developing.
-Ali has contributed in about 100 software projects during the last 10 years and he is continually evaluating and upgrading his skills so that he stays at the cutting edge of web development. Ali is a quick learner who can generate new ideas and can communicate clearly and effectively. He has a great interest in open source technologies and dedicates his leisure time to study and research in this field.Currently looking for an opportunity to join a dynamic and ambitious company that offers a unique work environment within which its staff can thrive and grow.
+Ali has contributed in about 100 software projects during the last 10 years and he is continually evaluating and upgrading his skills so that he stays at the cutting edge of web development. Ali is a quick learner who can generate new ideas and can communicate clearly and effectively. He has a great interest in open source technologies and dedicates his leisure time to study and research in this field.
  
 
 ## Programming Languages

@@ -1,6 +1,4 @@
-# Ali Zemani
-
-Welcome to my GitHub profile! a Full Stack Web Developer born in April 1990, with over 16 years of experience. I am driven by a relentless passion for Open Source, cutting-edge web technologies, and innovative development practices. My expertise spans a broad spectrum of modern tools, frameworks, and architectures that enable me to build scalable, secure, and high-performance web applications.
+ Welcome to my GitHub profile! a Full Stack Web Developer born in April 1990, with over 16 years of experience. I am driven by a relentless passion for Open Source, cutting-edge web technologies, and innovative development practices. My expertise spans a broad spectrum of modern tools, frameworks, and architectures that enable me to build scalable, secure, and high-performance web applications.
 
 ## About Me
 

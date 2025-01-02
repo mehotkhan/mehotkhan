@@ -1,12 +1,5 @@
  Welcome to my GitHub profile! a Full Stack Web Developer born in April 1990, with over 16 years of experience. I am driven by a relentless passion for Open Source, cutting-edge web technologies, and innovative development practices. My expertise spans a broad spectrum of modern tools, frameworks, and architectures that enable me to build scalable, secure, and high-performance web applications.
 
-## About Me
-
-With a strong foundation in both back-end and front-end development, I possess the unique ability to bridge the gap between server-side logic and client-side experiences. As a self-taught programmer, my journey has been defined by versatility, enabling me to tackle a wide range of challenges, from IoT solutions to Web3 technologies, all while embracing the ethos of Open Source.
-
-Born and raised in Iran, I thrive on pushing the boundaries of what’s possible—whether it's through exploring the latest in serverless architectures, peer-to-peer app design, or the evolving world of blockchain and decentralized systems. My approach is rooted in continuous learning, collaboration, and a deep understanding of the intersection between technology and human experience.
-
-## 🔧 Technologies & Skills
 
 ### Web & App Development
 - **Jamstack Architecture**: Leveraging serverless, microservices, and pre-rendering to build fast, secure, and scalable web applications.

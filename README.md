@@ -1,5 +1,3 @@
-# Hey there, I'm Mohet! 👋
-
 Welcome to my little corner on GitHub, where I explore, experiment, and build cool projects just for the fun of it.
 
 ## Who Am I?

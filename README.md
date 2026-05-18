@@ -1,28 +1,130 @@
-Welcome to my little corner on GitHub, where I explore, experiment, and build cool projects just for the fun of it.
+# Hi, Mohetios
 
-## Who Am I?
-I’m a passionate hobby developer who loves coding, tinkering, and diving into the latest web technologies. Whether I’m playing around with modern JavaScript frameworks, building nifty IoT gadgets, or contributing to open‑source projects, I’m always up for a new challenge.
+I'm a senior web and product engineer with around 15 years of experience building user-facing software, dashboards, business systems, mobile applications, and product-oriented platforms.
+
+I work across frontend architecture, product engineering, TypeScript, modern web applications, mobile development, API-driven systems, cloud-native infrastructure, and practical AI-assisted workflows.
+
+I care about building software that is useful, maintainable, and shaped by real product needs — not just technical novelty.
 
 ## What I Do
-- **Frontend Fun:**  
-  I love creating interactive and responsive web apps using **Vue.js**, **Nuxt.js**, and **React**. I enjoy experimenting with single‑page applications (SPA) and progressive web app (PWA) techniques.
 
-- **Backend Adventures:**  
-  When I'm not building slick interfaces, I'm writing lightweight APIs and scripts with **Node.js** and **Python**—just to keep things interesting.
+I design and build software across several layers of the product stack:
 
-- **IoT & Embedded Projects:**  
-  I get a kick out of building smart, connected devices using **Arduino**, **Raspberry Pi**, and similar platforms. It’s all about mixing hardware with code to create something new!
+- frontend and product architecture
+- web applications with React, Next.js, Vue, and Nuxt
+- mobile applications with React Native and Expo
+- dashboards, admin panels, and business systems
+- GraphQL and API-driven client applications
+- serverless and edge-oriented systems
+- AI-assisted product workflows
+- open-source experiments and technical documentation
 
-- **Open-Source & Community:**  
-  I’m a firm believer in the power of open‑source. I contribute to projects, share my experiments, and love learning from the community.
+## Current Focus
 
-## Current Interests
-- Experimenting with **Nuxt3** and serverless deployments.
-- Building fun, small‑scale **IoT** projects.
-- Playing with modern CSS frameworks like **Tailwind CSS** for rapid UI prototyping.
+I'm currently sharpening my work around product engineering: taking ambiguous ideas, shaping them into clear product flows, designing the technical structure, and shipping usable software.
 
-## Let's Connect!
-I’m always excited to chat about code, tech, or just geek out over new ideas. Feel free to check out my projects, give them a star, fork something interesting, or just drop me a message if you’d like to connect.
+My current focus areas include:
 
-Happy coding!
- 
+- building stronger product-oriented engineering case studies
+- improving frontend and mobile architecture patterns
+- documenting technical decisions through writing
+- exploring AI as a practical product capability
+- preparing for international product engineering opportunities
+- building public projects that combine software, product thinking, and real-world use cases
+
+## Selected Work
+
+### Safarnak
+
+Safarnak is an open-source AI-assisted travel workspace focused on creating, editing, sharing, and personalizing travel plans.
+
+It is one of my current product experiments where I explore mobile-first UX, AI-assisted planning, open-source product strategy, cloud-native architecture, and public product development.
+
+### Product & Engineering Experiments
+
+I also work on smaller experiments around:
+
+- web application architecture
+- dashboard systems
+- developer tooling
+- automation workflows
+- content platforms
+- UI systems
+- IoT and hardware prototypes
+- technical writing and documentation
+
+## Engineering Style
+
+I like working close to the product problem.
+
+That usually means:
+
+- understanding the user flow before writing code
+- reducing unnecessary complexity
+- designing clear data and UI boundaries
+- keeping codebases maintainable
+- improving developer experience
+- writing documentation for future contributors
+- making trade-offs explicit
+
+## Tech Stack
+
+**Frontend**
+
+React, Next.js, Vue, Nuxt, TypeScript, JavaScript, Tailwind CSS, MUI
+
+**Mobile**
+
+React Native, Expo
+
+**Backend & APIs**
+
+Node.js, GraphQL, REST APIs, serverless functions
+
+**Cloud & Infrastructure**
+
+Cloudflare Workers, D1, R2, KV, Vercel, edge/serverless platforms
+
+**Data & Persistence**
+
+SQLite, Drizzle ORM, client-side caching, API data modeling
+
+**AI & Automation**
+
+AI APIs, structured AI outputs, agent workflows, product automation, content workflows
+
+**Other Interests**
+
+Open-source, technical writing, IoT experiments, embedded prototypes, invention-oriented projects
+
+## Writing & Learning
+
+I use writing as a way to clarify engineering and product decisions.
+
+Topics I care about:
+
+- product engineering
+- frontend architecture
+- AI-assisted software workflows
+- open-source product building
+- mobile and web UX
+- technical decision-making
+- building in public
+
+## Current Direction
+
+I'm working toward a stronger international product engineering profile by combining:
+
+- real product work
+- open-source projects
+- technical writing
+- frontend and mobile engineering
+- AI-assisted product development
+- practical architecture decisions
+
+I want my work to show that I can take an idea from early concept to usable product — across UI, data, architecture, and product strategy.
+
+## Connect
+
+- Website: https://mohet.ir
+- LinkedIn: https://www.linkedin.com/in/ali-zemani/

@@ -1,6 +1,6 @@
 # Hi, I’m Mohetios
 
-I’m Ali Zemani — a senior full-stack product engineer with around 15 years of experience building web platforms, mobile applications, dashboards, internal tools, connected systems, and cloud-based products.
+a senior full-stack product engineer with around 15 years of experience building web platforms, mobile applications, dashboards, internal tools, connected systems, and cloud-based products.
 
 Most of my work sits between product thinking and engineering execution: turning unclear ideas, business workflows, or technical capabilities into usable software systems.
 

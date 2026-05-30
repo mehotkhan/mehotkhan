@@ -33,34 +33,7 @@ My current focus areas:
 * using AI as a practical product capability, not just a trend
 * building public projects with clear product and engineering value
 * preparing for international product engineering opportunities
-
-## Selected Work
-
-### Safarnak
-
-Safarnak is an open-source AI-assisted travel workspace for creating, editing, sharing, and personalizing travel plans.
-
-It is one of my main product experiments, where I explore mobile-first UX, AI-assisted planning, open-source product strategy, cloud-native architecture, and public product development.
-
-### Mohetios.dev
-
-Mohetios.dev is my technical notebook and personal engineering lab.
-
-I use it to write about software, product thinking, frontend architecture, full-stack web development, Cloudflare/serverless systems, AI-assisted workflows, open-source work, and long-term experiments around systems and invention.
-
-### Product & Engineering Experiments
-
-I also work on smaller experiments around:
-
-* web application architecture
-* dashboard systems
-* developer tooling
-* automation workflows
-* content platforms
-* UI systems
-* IoT and hardware prototypes
-* technical writing and documentation
-
+  
 ## Engineering Style
 
 I like working close to the product problem.

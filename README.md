@@ -115,11 +115,4 @@ It is a system that connects product intent, user flow, data, APIs, infrastructu
 
 That is the kind of work I try to build, write about, and improve over time.
 
----
-
-## Connect
-
-* Website: [mohetios.dev](https://mohetios.dev)
-* GitHub: [github.com/mehotkhan](https://github.com/mehotkhan)
-* LinkedIn: [linkedin.com/in/ali-zemani](https://www.linkedin.com/in/ali-zemani/)
-* Email: [hi@mohetios.dev](mailto:hi@mohetios.dev)
+ 
